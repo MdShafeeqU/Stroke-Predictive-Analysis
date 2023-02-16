@@ -1,1 +1,1 @@
-# Stroke-Prefictive-Analysis
+# Stroke-Predictive-Analysis
